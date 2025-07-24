@@ -11,7 +11,7 @@ Distracted driving is a major cause of road accidents. This project introduces a
 - 10 classes of driver behavior.
 - Collected in controlled environments.
 
-### 2.[Multi-Class Driver Behavior Image Dataset](https://data.mendeley.com/datasets/mzb4b6dff3/1) *(or replace with your actual second dataset)*
+### 2.[Multi-Class Driver Behavior Image Dataset](https://data.mendeley.com/datasets/mzb4b6dff3/1)
 - Collected in Ashulia, Dhaka inside public buses and private cars using mobile phones.
 - Captures real-world driving conditions with varied lighting and environments.
 - Includes 5 behavior classes: Safe Driving, Turning, Texting, Talking, and Others.
